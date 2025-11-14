@@ -10,7 +10,7 @@ export default function Home() {
       <Header />
       <Container>
         <Content>
-          <Title>Página dedicada a fãs de animes! 🎌</Title>
+          <Title>Página dedicada aos fãs de animes no Brasil !!! 🎌</Title>
           <Subtitle>
             Explore, descubra e compartilhe seus animes favoritos.
           </Subtitle>
@@ -28,7 +28,7 @@ const Container = styled.div`
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(135deg, #5a76a4, #240045);
+  background: linear-gradient(135deg, #a6764cff, #8a863cff);
   color: white;
   text-align: center;
   padding-top: 4rem; /* 🔹 espaço para o header fixo */
