@@ -10,7 +10,7 @@ export default function Home() {
       <Header />
       <Container>
         <Content>
-          <Title>Página dedicada aos fãs de animes no Brasil !!! 🎌</Title>
+          <Title>site de fãs para fãs !!! 🎌</Title>
           <Subtitle>
             Explore, descubra e compartilhe seus animes favoritos.
           </Subtitle>
